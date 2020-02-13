@@ -1,8 +1,252 @@
+
+.main{
+	background-color: #212121;
+}
+
 .bg{background-image: url('../img/Place Your Design Here.jpg');
 
-width: 100%;
+	width: 100%;
+    height: 879px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+a{
+	color: #99cc66;
+}
+
+.logo{
+	width: 23%;
+	height: auto;
+}
+
+
+
+
+#menu {
+
+    background-color:  #000;
+    opacity: 0.3;
+	font-size: 9vh;
+}
+
+
+#learnmorebutton{
+
+    height: 73px;
+    width: 232px;
+    background-color:#62784c7a;
+    color:#9c6;
+    font-size: 26px;
+
+}
+
+
+#weactuall{background-image: url('../img/Rectangle .png');
+
+	width: 100%;
     height: 879px;
     background-repeat: no-repeat;
     background-size: contain;
     border: 0.1px solid black;
 }
+
+
+
+.what-do-you {
+    margin: 152px 0px 0px 63px;
+    line-height: 22px;
+}
+
+.new-test{
+	padding: 124px;
+	line-height: 20px;
+}
+
+
+.pm{
+	padding: 0px !important;
+	margin: 0px !important;
+}
+
+
+.container.tradition {
+    padding: 100px;
+}
+
+
+.plate {
+    color: #9c6;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.poke {
+    text-align: center;
+    color: #e7e7e7;
+}
+
+
+.things-simple{background-image: url('../img/Place Your Design Here (Double Click to Edit)13.png');
+	background-attachment: fixed;
+	width: 100%;
+    height: 205px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.rate {
+    font-size: 16px;
+}
+
+
+#sel1 {
+    width: 55%;
+    background-color: transparent;
+    border: 3px solid #e7e7e7;
+    border-radius: 10px;
+    color: #e7e7e7;
+    background-color: #212121;
+    background-color: #212121;
+}
+
+
+
+
+
+
+
+.input-group.date {
+    width: 55%;
+    margin-left: 80px;
+}
+
+
+.form-control::placeholder {
+    color: 
+#e7e7e7;
+opacity: 1;
+background-color:
+    #212121;
+}
+
+
+
+.date {
+    margin-left: 77px;
+}
+
+
+.discover{background-image: url('../img/Place Your Design Here (Double Click to Edit)121.png');
+	background-attachment: fixed;
+	width: 100%;
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+  .thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+    background-color: #e7e7e7;
+  }
+  .thumbnail img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+  }
+
+
+
+  .container-fluid.text-center.bg-grey {
+
+    padding: 191px;
+
+    margin-top: -155px;
+    background-color: #45493b;
+    padding-bottom: 75px;
+}
+
+a{
+	color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: white;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.francisco {
+
+    text-align: left;
+    margin-left: 25px;
+
+}
+	
+.hrs{
+	width: 32%;
+	border: 3.5px solid#9c6;
+	margin-left: 0px;
+}
+
+
+
+
+
+
+..carousel-indicator .li{
+	background-color: transparent;
+	border:none;
+}
+
+  @media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+  }
+
+
+
+  .hare{background-image: url('../img/Place Your Design Here (Double Click to Edit)14.png');
+	background-attachment: fixed;
+	width: 100%;
+    height: 580px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.opening{
+	 font-size: 3vw;
+	 color: #99cc66;
+	 line-height: 0vh;
+}
+
+
+.newopening{
+	font-size: 4vw;
+	color: #99cc66;
+	line-height: 0vh;
+}
+
+
